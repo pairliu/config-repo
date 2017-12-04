@@ -1,4 +1,4 @@
-example.property: "I AM IN THE DEFAULT. Edited by James!!!"
+example.property: "I AM IN THE DEFAULT. Edited by James!!! Edit again to try refresh"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "true"
